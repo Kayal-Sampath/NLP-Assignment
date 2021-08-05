@@ -14,7 +14,7 @@ Using NLTK and WordNet,
   ii)find different types of word similarity betweennouns and verb
  
  
-
+CODE (1 & 2) : NLP_assignment
 _______________________________________________________________________
 
 # NLP-Assignment 3 
@@ -24,3 +24,5 @@ _______________________________________________________________________
 3. Apply supervised classification algorithms (any 5  algorithms) using SKLEARN for the same problem.  
 4. Explore possibility of supervised algorithms using SPACY. 
 5. Write a program in Python to find the occurrence of articles / determiners in Brown corpus.
+
+CODE (1 & 2) : NLP_assignment_unit_4
