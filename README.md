@@ -1,4 +1,4 @@
-# NLP-Assignment 1
+# Question 1
 Do the following using nltk and spacy:
 1. Parsing
 2. Tokenization
@@ -7,7 +7,7 @@ Do the following using nltk and spacy:
 5. Lemmatization
 
 _______________________________________________________________________
-# NLP-Assignment 2
+# Question 2
 
 Using NLTK and WordNet,
   i)find different types of relations and senses forthe words
@@ -17,7 +17,7 @@ Using NLTK and WordNet,
 CODE (1 & 2) : NLP_assignment
 _______________________________________________________________________
 
-# NLP-Assignment 3 
+# Question 3 
 
 1. Build NaiveBayes Classifier using NLTK with the training data and find the classification accuracy  of the test data. Consider any bench mark data set. 
 2. List the most significant features of data set.  
